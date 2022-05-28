@@ -15,8 +15,8 @@
 ## Summary
 
 This is an ecommerce app, it has it's own database and has integration with stripe. Also, you can:
-Wishlist products
 
+- Wishlist products
 - Change the user picture
 - Make test purchases
 - Leave a review on every product
